@@ -19,7 +19,7 @@ npm run build
 ```
 npm run test:unit
 ```
-###Demo
-(Quién es este pokemon)[https://quienesestepokemon.netlify.app/]
+### Demo
+[Quién es este pokemon](https://quienesestepokemon.netlify.app/)
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
